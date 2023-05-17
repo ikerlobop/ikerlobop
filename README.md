@@ -6,8 +6,7 @@
 
 ⭐️ Mis lenguajes favoritos son Python, Java y C, aprendiendo C#, estoy adquiriendo nuevas habilidades en SQL, MongoDB y algo de desarrollo web.
 
-![GitHub Cat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
-
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Cat" width="24">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/iker-lobo-p%C3%A9rez-80412b172/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=mail.ru)](mailto:iloboiac@gmail.com)
