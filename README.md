@@ -2,7 +2,9 @@
 
 Me llamo Iker y soy un apasionado de la informática y la electrónica.
 
-Este es mi perfil de GitHub, donde comparto proyectos, colaboraciones y aprendizajes en Python, Arduino, Inteligencia Artificial y Big Data. Aquí encontrarás una selección de mis trabajos, actividades de aprendizaje y contribuciones a la comunidad de desarrollo.
+Soy Tecnico Superior en Desarrollo de Aplicaciones Multiplataforma(DAM), Automatización y Robótica Industrial(ARI) y recientemente he terminado la especialización de Inteligencia Artificial y Big Data(IABD).
+
+Este es mi perfil de GitHub, donde comparto proyectos, colaboraciones y aprendizajes en Python, Java, Arduino, Inteligencia Artificial y Big Data. Aquí encontrarás una selección de mis trabajos, actividades de aprendizaje y contribuciones a la comunidad de desarrollo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/iker-lobo-p%C3%A9rez-80412b172/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=mail.ru)](mailto:iloboiac@gmail.com)
