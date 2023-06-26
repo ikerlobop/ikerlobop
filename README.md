@@ -1,6 +1,6 @@
 **¡Hola! 😊**
 
-🤓 Me llamo Iker y soy un apasionado de la informática y la electrónica.
+🤓 Me llamo Iker y soy programador.
 
 🎓 Soy Tecnico Superior en Desarrollo de Aplicaciones Multiplataforma(DAM), Automatización y Robótica Industrial(ARI) y recientemente he terminado la especialización de Inteligencia Artificial y Big Data(IABD). 
 
