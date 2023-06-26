@@ -4,7 +4,7 @@
 
 🎓 Soy Tecnico Superior en Desarrollo de Aplicaciones Multiplataforma(DAM), Automatización y Robótica Industrial(ARI) y recientemente he terminado la especialización de Inteligencia Artificial y Big Data(IABD). 
 
-⭐️ Mis lenguajes favoritos son Python, Java, aprendiendo C#, estoy adquiriendo nuevas habilidades en Big Data y algo de desarrollo web.
+⭐️ Mis lenguajes favoritos son Python, Java, aprendiendo C#, estoy adquiriendo nuevas habilidades en Big Data y desarrollo de aplicaciones móviles.
 
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Cat" width="24"> ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en algún proyecto.
 
