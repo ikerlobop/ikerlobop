@@ -1,9 +1,33 @@
-**¡Saludos! 👋**
+# Iker Lobo Pérez
 
-Desarrollador de software | Android Studio | Java | Kotlin | Cobol | PHP | JavaScript | HTML | CSS | SQL | MongoDB
+Desarrollador de software con algoexperiencia en el desarrollo de aplicaciones móviles, web y back-end.
 
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Cat" width="24"> ¡Gracias por visitar mi perfil de GitHub! Espero que disfrutes explorando mis proyectos y contribuciones. Si tienes alguna pregunta o te gustaría colaborar en un proyecto, no dudes en contactarme.
+## Habilidades
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/iker-lobo-p%C3%A9rez-80412b172/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=mail.ru)](mailto:iloboiac@gmail.com)
+* Desarrollo Web, HTML, CSS, PHP, CodeIgniter.
+* Android Studio, Kotlin y Java.
+* Bases de datos, MySQL, MongoDB.
+* Inteligencia artificial con Python utilizando librerías como Tensorflow, Pandas y Keras
+  
+
+## LinkedIn
+
+[https://www.linkedin.com/in/iker-lobo-p%C3%A9rez-80412b172/](https://www.linkedin.com/in/ikerloboperez/))
+
+## Correo electrónico
+
+iloboiac@gmail.com
+
+## Proyectos
+
+* Con Python he desarrollado un proyecto de análisis de ruido de los sonómetros de Bilbao. El proyecto utilizó las bibliotecas TensorFlow, Keras y pandas para recopilar, analizar y predecir los niveles de ruido en la ciudad.
+
+* Con Android Studio, Java y Firebase, he desarrollado en equipo una aplicación móvil para conectar a tatuadores y usuarios que buscan tatuajes. La aplicación permite a los tatuadores crear perfiles con sus fotos de muestra, contacto y ubicación del estudio. Los usuarios pueden buscar tatuadores por estilo, ubicación o disponibilidad.
+
+## Intereses personales
+
+* Me encanta viajar y aprender sobre nuevas culturas.
+* Soy un fotógrafo entusiasta.
+
+
 
