@@ -4,10 +4,11 @@ Desarrollador de software con algoexperiencia en el desarrollo de aplicaciones m
 
 ## Habilidades
 
-* Desarrollo Web, HTML, CSS, PHP, CodeIgniter.
-* Android Studio, Kotlin y Java.
-* Bases de datos, MySQL, MongoDB.
-* Inteligencia artificial con Python utilizando librerías como Tensorflow, Pandas y Keras
+* Desarrollo Web: HTML, CSS, PHP (con experiencia en CodeIgniter).
+* Desarrollo de aplicaciones móviles: Android Studio, Kotlin y Java.
+* Desarrollo de aplicaciones empresariales: J2EE, SpringBoot.
+* Bases de datos: MySQL y MongoDB.
+* Inteligencia Artificial con Python utilizando bibliotecas como TensorFlow, Pandas y Keras.
   
 
 ## LinkedIn
