@@ -17,7 +17,7 @@ Desarrollador de software con algoexperiencia en el desarrollo de aplicaciones m
 
 ## Correo electrónico
 
-iloboiac@gmail.com
+ikerlobop@gmail.com
 
 ## Proyectos
 
