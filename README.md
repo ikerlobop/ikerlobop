@@ -1,6 +1,6 @@
 # Iker Lobo Pérez
 
-Desarrollador de software con algoexperiencia en el desarrollo de aplicaciones móviles, web y back-end.
+Desarrollador de software con algo de experiencia en el desarrollo de aplicaciones móviles, web y back-end.
 
 ## Habilidades
 
@@ -21,9 +21,9 @@ ikerlobop@gmail.com
 
 ## Proyectos
 
-* Con Python he desarrollado un proyecto de análisis de ruido de los sonómetros de Bilbao. El proyecto utilizó las bibliotecas TensorFlow, Keras y pandas para recopilar, analizar y predecir los niveles de ruido en la ciudad.
+* Con Python he desarrollado un proyecto de análisis de ruido de los sonómetros de Bilbao. El proyecto utilizó las bibliotecas TensorFlow, Keras y pandas para recopilar, analizar y predecir los niveles de ruido en la ciudad. Disponible en GitHub.
 
-* Con Android Studio, Java y Firebase, he desarrollado en equipo una aplicación móvil para conectar a tatuadores y usuarios que buscan tatuajes. La aplicación permite a los tatuadores crear perfiles con sus fotos de muestra, contacto y ubicación del estudio. Los usuarios pueden buscar tatuadores por estilo, ubicación o disponibilidad.
+* Con Android Studio, Java y Firebase, he desarrollado en equipo una aplicación móvil para conectar a tatuadores y usuarios que buscan tatuajes. La aplicación permite a los tatuadores crear perfiles con sus fotos de muestra, contacto y ubicación del estudio. Los usuarios pueden buscar tatuadores por estilo, ubicación o disponibilidad. Disponible con documentación añadida en Github.
 
 ## Intereses personales
 
