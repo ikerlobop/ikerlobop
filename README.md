@@ -39,7 +39,7 @@ El proyecto se ha desarrollado utilizando las siguientes tecnologías:
 
 La calle más ruidosa de Bilbao es Fray Juan 24, en el barrio de Zorroza. Le siguen otras calles principales de la ciudad, como Zabalburu, Autonomía y Avenida Montevideo. La calle Poza también tiene un alto nivel de ruido, especialmente por la tarde. Esta calle es una arteria comercial importante, con muchas tiendas y restaurantes. Las zonas de ocio, como el Casco Viejo y el Ensanche, tienen una tendencia a la baja en ruido. Sin embargo, el promedio de decibelios en estas zonas sigue siendo molesto. Los ruidos de madrugada en arterias principales registrados no pueden ser de ocio nocturno, ya que alcanzan una sonoridad muy fuerte incluso molesta. Más bien se deben al camión de la basura o las barredoras.
 
-*Disponible con documentación añadida en [Github](https://github.com/ikerlobop/estadistica).*
+*Disponible con documentación añadida en [Github](https://github.com/ikerlobop/RetoColab).*
 
 
 ## Aplicación móvil para conectar a tatuadores y usuarios
