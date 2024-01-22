@@ -13,7 +13,7 @@ Desarrollador de software con algo de experiencia en el desarrollo de aplicacion
 
 ## LinkedIn
 
-[LinkedIn](https://www.linkedin.com/in/ikerloboperez/))
+[LinkedIn](https://www.linkedin.com/in/ikerloboperez/)
 
 ## Correo electrónico
 
