@@ -4,13 +4,11 @@ Desarrollador de software con algo de experiencia en el desarrollo de aplicacion
 
 ## Habilidades
 
-* Desarrollo Web: HTML, CSS, PHP (con experiencia en CodeIgniter).
-* Desarrollo de aplicaciones móviles: Android Studio, Kotlin y Java.
-* Desarrollo de aplicaciones empresariales: J2EE, SpringBoot.
-* Bases de datos: MySQL y MongoDB.
-* Inteligencia Artificial con Python utilizando bibliotecas como TensorFlow, Pandas y Keras.
+- Desarrollo de aplicaciones móviles: Android Studio, Kotlin y Java.
+- Bases de datos: MySQL y MongoDB.
+- Automatización y control industrial: Python para control industrial y automatización.
+- Desarrollo Web: HTML, CSS, PHP (con experiencia en CodeIgniter).
   
-
 ## LinkedIn
 
 [LinkedIn](https://www.linkedin.com/in/ikerloboperez/)
