@@ -11,10 +11,9 @@
 
 Soy desarrollador de software con experiencia en desarrollo web, aplicaciones móviles, análisis de datos y automatización industrial. Me gusta crear soluciones que combinan diferentes tecnologías para resolver problemas de manera eficiente.
 
-Actualmente, trabajo en la división de automatización industrial **Symen del Grupo Heimsall**, donde me encargo de programar autómatas para sistemas industriales. También trabajo con **protocolos de comunicación** como **Modbus TCP**, **EthernetIP**, entre otros, para asegurar la conectividad entre dispositivos industriales. También virtualizo equipos con sistemas como **Linux**, **MS-DOS**, y **Windows** para hacer pruebas y desarrollar en diferentes entornos para adaptarme a la situación del cliente.
+Actualmente, trabajo en la división de automatización industrial Symen del Grupo Heimsall, donde programo autómatas para sistemas industriales y desarrollo soluciones industriales con **Python**, enfocadas en automatización y control. También utilizo protocolos de comunicación como **Modbus TCP**, **EthernetIP**, entre otros, para asegurar la conectividad entre dispositivos industriales. Virtualizo equipos con sistemas como **Linux**, **MS-DOS**, y **Windows** para realizar pruebas y desarrollar en diversos entornos, adaptándome a las necesidades de cada cliente.
 
-
-Por mi cuenta, también trabajo con **JavaScript** y diferentes librerías y frameworks para desarrollar aplicaciones web modernas, siempre enfocándome en la optimización y el rendimiento.
+Por mi cuenta, también trabajo con **JavaScript** y diversas librerías y frameworks para desarrollar aplicaciones web modernas, siempre enfocándome en la optimización y el rendimiento.
 
 ## 🎓 Formación Académica
 - **Bachelor en Informática** (En curso) - Universitat Carlemany.
