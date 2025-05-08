@@ -21,7 +21,7 @@ Por mi cuenta, también trabajo con **JavaScript** y diversas librerías y frame
 - **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** - Stucom Pelai.
 - **Grado Superior en Automatización y Robótica Industrial** - Barakaldo LHII.
 
-## 🚀 Tecnología y Herramientas
+## Tecnología y Herramientas
 - **JavaScript**: Vanilla JavaScript.
 - **Front-end**: HTML, CSS.
 - **Back-end**: Python, Spring Boot.
@@ -30,13 +30,13 @@ Por mi cuenta, también trabajo con **JavaScript** y diversas librerías y frame
 - **DevOps**: Docker, Apache Kafka.
 - **Version Control**: Git, GitHub.
 
-## 🌐 Redes Sociales
+## Redes Sociales
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Iker%20Lobo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ikerloboperez)
 
-## 📧 Contacto
+## Contacto
 **Email**: ikerlobop@gmail.com
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Iker's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikerlobop&show_icons=true&theme=dark&hide_border=true&icon_color=ffb86c&title_color=50fa7b&text_color=ff79c6)
 ![Commits por año](https://github-readme-streak-stats.herokuapp.com/?user=ikerlobop&theme=dark&hide_border=true&background=000000&stroke=ff79c6)
@@ -44,7 +44,7 @@ Por mi cuenta, también trabajo con **JavaScript** y diversas librerías y frame
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ikerlobop&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=50fa7b&text_color=ff79c6&bg_color=000000&hide=css,html)
 
-## 🎯 Intereses
+## Intereses
 - **Viajes**: Me encanta conocer nuevas culturas y he tenido la oportunidad de viajar a varios países. Estas experiencias me han ayudado a tener una visión más amplia y a adaptarme mejor a distintas situaciones.
   
 - **Fotografía**: Disfruto mucho la fotografía, especialmente cuando viajo. Me gusta capturar momentos y mejorar mis habilidades en edición de imágenes.
