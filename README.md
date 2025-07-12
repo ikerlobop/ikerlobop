@@ -2,10 +2,6 @@
 
 Soy desarrollador de software con experiencia en desarrollo web, aplicaciones móviles, análisis de datos y automatización industrial. Me enfoco en crear soluciones eficientes que integren distintas tecnologías.
 
-Actualmente trabajo en la división de automatización industrial **Symen**, del Grupo Heimsall. Allí programo autómatas y desarrollo soluciones industriales con **Python** y **Java Spring Boot**, centradas en automatización y control. Utilizo protocolos como **Modbus TCP** y **EthernetIP** para garantizar la conectividad entre dispositivos, y virtualizo entornos con **Linux**, **Windows** e incluso **MS-DOS**, según los requisitos del cliente.
-
-Por mi cuenta, también desarrollo aplicaciones web modernas con **JavaScript**, priorizando la optimización y el rendimiento.
-
 ## Formación Académica
 
 - **Bachelor en Informática** (en curso) – Universitat Carlemany  
@@ -20,7 +16,6 @@ Por mi cuenta, también desarrollo aplicaciones web modernas con **JavaScript**,
 - **Backend**: Python, Spring Boot  
 - **Mobile**: Java (Android Studio)  
 - **Bases de datos**: MySQL, MongoDB, SQLite  
-- **DevOps**: Docker, Apache Kafka  
 - **Control de versiones**: Git, GitHub
 
 ## Redes Sociales
