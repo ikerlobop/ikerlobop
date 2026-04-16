@@ -1,4 +1,4 @@
-# Hola, soy **Iker Lobo**
+**Iker Lobo Pérez**
 
 Desarrollador de software especializado en **visión artificial**, **automatización industrial**, **sistemas embebidos** y **análisis de datos**.  
 Trabajo desarrollando soluciones que combinan programación, IA y dispositivos industriales para resolver necesidades reales en planta.
